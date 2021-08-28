@@ -3,4 +3,5 @@ a secret language formed from English by transferring the initial consonant or c
 
 I built this project with the help of Codecademy.
 
-![piglatin](https://user-images.githubusercontent.com/72088440/131217978-143805eb-4307-447a-a434-c0fe8da9cd96.jpg)
+![rsz_piglatin](https://user-images.githubusercontent.com/72088440/131218019-0789d13a-b7c3-4df6-afcf-7dedac587be9.jpg)
+
